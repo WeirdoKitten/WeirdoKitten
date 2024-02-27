@@ -1,16 +1,26 @@
-### Hi there 👋
+# 😊 Tentang Saya
 
-<!--
-**WeirdoKitten/WeirdoKitten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang mahasiswa IT biasa yang mencoba untuk menjadi lebih baik dari hari ke hari. Perkenalkan, saya Satria, seorang yang mempunyai keinginan yang kuat untuk menguasai banyak hal di bidang IT.
 
-Here are some ideas to get you started:
+Saat ini saya sedang menempuh pendidikan di Politeknik Negeri Bandung dengan jurusan teknik komputer & informatika. Jurusan ini melatih saya untuk berpikir secara logis dan sistematis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👍 Kemampuan
+
+- **Microsoft Office** : saya dapat menggunakan microsoft office dengan baik dan mempunyai banyak pengalaman dalam menggunakannya
+
+- **C, Java, Python**  : saya dapat menggunakan bahasa-bahasa pemrograman ini dengan cukup baik
+
+# 📖 Pendidikan
+- **SMA**              : SMAN 1 Baleendah
+
+- **Perguruan Tinggi** : Politeknik Negeri Bandung
+
+# 🔥 Proyek
+
+- Saya telah berpengalaman dalam membuat proyek tugas besar **TicTacToe**
+- Saya telah berpengalaman dalam **mengolah data bank menggunakan Ms Excel**
+
+# 📞 Hubungi Saya
+
+Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
+- Email : satria.permata.tif423@polban.ac.id
